@@ -60,18 +60,18 @@ ul li a:hover:before {
   top: 0;
 }
 ul li:nth-child(1) a:before {
-  background: #3b5999;
+  background: #000000;
 }
 
 ul li:nth-child(2) a:before {
-  background: #0b49d0;
+  background: #074de4;
 }
 
 ul li:nth-child(3) a:before {
-  background: #000000;
+  background: #ff0000;
 }
 ul li:nth-child(4) a:before {
-  background: #12cc31;
+  background: #dc08e3;
 }
 ul li:nth-child(5) a:before {
   background: #191818;
